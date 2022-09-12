@@ -1,2 +1,3 @@
-# My-AWS-project-directory
-This repository contains my AWS projects.
+# My-AWS-projects
+This repository contains a few screenshot of hands-on projects on AWS.
+
